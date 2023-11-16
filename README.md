@@ -5,5 +5,5 @@ This final project focuses on the basic analysis of the dataset "Positive Cases 
 
 **Data Source:** [Positive Cases of Simian Smallpox in Colombia](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-Viruela-s-mica-en-Colombia/tmet-yeek)
 
-![Poster 2023 EAFIT](monkeypox_colombia/poster.png)
+![Poster 2023 EAFIT](poster.png)
 
